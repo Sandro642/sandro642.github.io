@@ -1,0 +1,136 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.sandro642.github",
+    "module": "ConnectorAPI",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ConnectorAPI-0.1.0.jar",
+          "url": "ConnectorAPI-0.1.0.jar",
+          "size": 30299789,
+          "sha512": "91a5281d2375387c72b207de89b2be5109ac78f4564d714ad0ca9dfa7d64f0aea9db95132b3bc816b8003b61689d6f43d4916a7dbb2691f3dd71ab9df2a5610f",
+          "sha256": "57019f69f351eed4d751caf8badb9c1f83ec135934f6c119c4dbff8b9a43d955",
+          "sha1": "13fcb6809a22acfdbf95324537569cb72f1fd21d",
+          "md5": "dae01a023ecb653f94316be87b3889d3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.projectreactor",
+          "module": "reactor-core",
+          "version": {
+            "requires": "3.6.9"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-webflux",
+          "version": {
+            "requires": "3.2.2"
+          }
+        },
+        {
+          "group": "org.openjfx",
+          "module": "javafx-base",
+          "version": {
+            "requires": "21"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "javafx-base",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux"
+            }
+          }
+        },
+        {
+          "group": "org.openjfx",
+          "module": "javafx-graphics",
+          "version": {
+            "requires": "21"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "javafx-graphics",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux"
+            }
+          }
+        },
+        {
+          "group": "org.openjfx",
+          "module": "javafx-controls",
+          "version": {
+            "requires": "21"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "javafx-controls",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux"
+            }
+          }
+        },
+        {
+          "group": "org.openjfx",
+          "module": "javafx-fxml",
+          "version": {
+            "requires": "21"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "javafx-fxml",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux"
+            }
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ConnectorAPI-0.1.0.jar",
+          "url": "ConnectorAPI-0.1.0.jar",
+          "size": 30299789,
+          "sha512": "91a5281d2375387c72b207de89b2be5109ac78f4564d714ad0ca9dfa7d64f0aea9db95132b3bc816b8003b61689d6f43d4916a7dbb2691f3dd71ab9df2a5610f",
+          "sha256": "57019f69f351eed4d751caf8badb9c1f83ec135934f6c119c4dbff8b9a43d955",
+          "sha1": "13fcb6809a22acfdbf95324537569cb72f1fd21d",
+          "md5": "dae01a023ecb653f94316be87b3889d3"
+        }
+      ]
+    }
+  ]
+}
