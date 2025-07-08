@@ -31,6 +31,7 @@ loadScripts(document, 'script');</script>
 <li>Package</li>
 <li>Class</li>
 <li><a href="overview-tree.html">Tree</a></li>
+<li><a href="deprecated-list.html">Deprecated</a></li>
 <li class="nav-bar-cell1-rev">Index</li>
 <li><a href="help-doc.html#index">Help</a></li>
 </ul>
@@ -112,6 +113,10 @@ loadScripts(document, 'script');</script>
 <dl class="index">
 <dt><a href="fr/sandro642/github/jobs/misc/MethodType.html#DELETE" class="member-name-link">DELETE</a> - Enum constant in enum class fr.sandro642.github.jobs.misc.<a href="fr/sandro642/github/jobs/misc/MethodType.html" title="enum class in fr.sandro642.github.jobs.misc">MethodType</a></dt>
 <dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/api/ApiResponse.html#display()" class="member-name-link">display()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
+<dd>
+<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type Long.</div>
+</dd>
 </dl>
 <h2 class="title" id="I:E">E</h2>
 <dl class="index">
@@ -163,6 +168,14 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Récupère les données de la réponse.</div>
 </dd>
+<dt><a href="fr/sandro642/github/api/ApiResponse.html#getExtra(java.lang.String)" class="member-name-link">getExtra(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
+<dd>
+<div class="block">Récupère une donnée supplémentaire à partir de la Map 'extra' en utilisant une clé.</div>
+</dd>
+<dt><a href="fr/sandro642/github/api/ApiResponse.html#getExtraData()" class="member-name-link">getExtraData()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
+<dd>
+<div class="block">Récupère toutes les données supplémentaires.</div>
+</dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getMsg()" class="member-name-link">getMsg()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
 <div class="block">Récupère le message de la réponse.</div>
@@ -209,7 +222,9 @@ loadScripts(document, 'script');</script>
 </dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecData(java.lang.String)" class="member-name-link">getSpecData(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé.</div>
+<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
+<div class="deprecation-comment">En raison de la nature générique de cette méthode créant des erreurs, il est recommandé d'utiliser les méthodes spécifiques pour chaque type de données. Cette méthode est obsolète et peut être supprimée dans les futures versions.</div>
+</div>
 </dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecDataBoolean(java.lang.String)" class="member-name-link">getSpecDataBoolean(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
@@ -330,6 +345,14 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Définit si la réponse contient une erreur.</div>
 </dd>
+<dt><a href="fr/sandro642/github/api/ApiResponse.html#setExtra(java.lang.String,java.lang.Object)" class="member-name-link">setExtra(String, Object)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
+<dd>
+<div class="block">Définit une donnée supplémentaire dans la Map 'extra'.</div>
+</dd>
+<dt><a href="fr/sandro642/github/api/ApiResponse.html#setExtraData(java.util.Map)" class="member-name-link">setExtraData(Map&lt;String, Object&gt;)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
+<dd>
+<div class="block">Définit toutes les données supplémentaires.</div>
+</dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#setMsg(java.lang.String)" class="member-name-link">setMsg(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
 <div class="block">Définit le message de la réponse.</div>
@@ -351,10 +374,6 @@ loadScripts(document, 'script');</script>
 <dl class="index">
 <dt><a href="fr/sandro642/github/jobs/misc/ResourceType.html#TEST_RESOURCES" class="member-name-link">TEST_RESOURCES</a> - Enum constant in enum class fr.sandro642.github.jobs.misc.<a href="fr/sandro642/github/jobs/misc/ResourceType.html" title="enum class in fr.sandro642.github.jobs.misc">ResourceType</a></dt>
 <dd>&nbsp;</dd>
-<dt><a href="fr/sandro642/github/api/ApiResponse.html#toString()" class="member-name-link">toString()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
-<dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type Long.</div>
-</dd>
 </dl>
 <h2 class="title" id="I:U">U</h2>
 <dl class="index">
