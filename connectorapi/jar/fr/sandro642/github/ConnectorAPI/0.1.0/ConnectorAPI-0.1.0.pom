@@ -10,6 +10,27 @@
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectorAPI</artifactId>
   <version>0.1.0</version>
+  <name>ConnectorAPI</name>
+  <description>A library for connecting to APIs</description>
+  <url>https://sandro642.github.io/connectorapi</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>sandro642</id>
+      <name>Sandro</name>
+      <email>sandro33810@gmail.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/sandro642/ConnectorAPI.git</connection>
+    <developerConnection>scm:git:ssh://github.com/sandro642/ConnectorAPI.git</developerConnection>
+    <url>https://github.com/sandro642/ConnectorAPI</url>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>io.projectreactor</groupId>

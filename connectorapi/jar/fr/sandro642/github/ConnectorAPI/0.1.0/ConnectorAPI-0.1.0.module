@@ -27,11 +27,11 @@
         {
           "name": "ConnectorAPI-0.1.0.jar",
           "url": "ConnectorAPI-0.1.0.jar",
-          "size": 30299789,
-          "sha512": "91a5281d2375387c72b207de89b2be5109ac78f4564d714ad0ca9dfa7d64f0aea9db95132b3bc816b8003b61689d6f43d4916a7dbb2691f3dd71ab9df2a5610f",
-          "sha256": "57019f69f351eed4d751caf8badb9c1f83ec135934f6c119c4dbff8b9a43d955",
-          "sha1": "13fcb6809a22acfdbf95324537569cb72f1fd21d",
-          "md5": "dae01a023ecb653f94316be87b3889d3"
+          "size": 21530,
+          "sha512": "58865c342040fed532e1767739808a2f34a58431b5fd4b672f53495182af94b4522b925105d7e65ba815bd530b0f8adb7acdf97f6c3dc61f8da3212bd1177fec",
+          "sha256": "62f49b48c33264f6f6f3ffa8b442aa6c272903a8ff58d4a13d6565641a21803f",
+          "sha1": "980fab1eb151fcad2be317e8f69f409fa251ad0a",
+          "md5": "88434130b1d69870fa3301a881303559"
         }
       ]
     },
@@ -124,11 +124,51 @@
         {
           "name": "ConnectorAPI-0.1.0.jar",
           "url": "ConnectorAPI-0.1.0.jar",
-          "size": 30299789,
-          "sha512": "91a5281d2375387c72b207de89b2be5109ac78f4564d714ad0ca9dfa7d64f0aea9db95132b3bc816b8003b61689d6f43d4916a7dbb2691f3dd71ab9df2a5610f",
-          "sha256": "57019f69f351eed4d751caf8badb9c1f83ec135934f6c119c4dbff8b9a43d955",
-          "sha1": "13fcb6809a22acfdbf95324537569cb72f1fd21d",
-          "md5": "dae01a023ecb653f94316be87b3889d3"
+          "size": 21530,
+          "sha512": "58865c342040fed532e1767739808a2f34a58431b5fd4b672f53495182af94b4522b925105d7e65ba815bd530b0f8adb7acdf97f6c3dc61f8da3212bd1177fec",
+          "sha256": "62f49b48c33264f6f6f3ffa8b442aa6c272903a8ff58d4a13d6565641a21803f",
+          "sha1": "980fab1eb151fcad2be317e8f69f409fa251ad0a",
+          "md5": "88434130b1d69870fa3301a881303559"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ConnectorAPI-0.1.0-sources.jar",
+          "url": "ConnectorAPI-0.1.0-sources.jar",
+          "size": 12740,
+          "sha512": "d301e77758fff3cc30c65e59f0f189495c5b23362bb786c8b4102d3ed6be357e91a45f12147f5167fbb5cde7f7fa5eaf9b9c9334b2bd258006927d97d77bf306",
+          "sha256": "7d22d9e359eb883bc82b8c570de6e9df318347bbef04312b88e31f775b610aac",
+          "sha1": "b00ebf8242d8cf7f512224e04cd1f38807358e8b",
+          "md5": "ad6f11c137d61ec30b98a918d9aacf6b"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ConnectorAPI-0.1.0-javadoc.jar",
+          "url": "ConnectorAPI-0.1.0-javadoc.jar",
+          "size": 135395,
+          "sha512": "3aa26a5545cd3876787b91f5adb97078cf84912afd72df1b236c82c9c33e302684ac6a8db1d387c6bbfae5717676bc93096f440bfe0f0c3a1e58af8a2d11c6b1",
+          "sha256": "0f4b9c80ffa0e101bfa6bb39f2932f0a21cebda3989ae142684df6b5685f7d21",
+          "sha1": "fb7ff1743c3c52c5f6e086bc014cf38d5e195750",
+          "md5": "2ac550987a63bed010c173d0b93cf481"
         }
       ]
     }
