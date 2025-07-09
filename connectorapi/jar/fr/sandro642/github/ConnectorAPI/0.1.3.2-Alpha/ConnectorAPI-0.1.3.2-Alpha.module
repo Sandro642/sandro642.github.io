@@ -3,7 +3,7 @@
   "component": {
     "group": "fr.sandro642.github",
     "module": "ConnectorAPI",
-    "version": "0.1.2",
+    "version": "0.1.3.2-Alpha",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.2.jar",
-          "url": "ConnectorAPI-0.1.2.jar",
-          "size": 24201,
-          "sha512": "46039544f42a70d299a1450e3d249b8da0e9b218159b8fc72d4d6d4783621e3e8cfe32e5858c035b88f40763d57e7ba8d917707b4430303842e4fc0087f51fe9",
-          "sha256": "c8aeab4de5abcafa31bd8a8ea502c4b92207b81cc908f7a5c26799e13f2c4fca",
-          "sha1": "1dacef6b7d0c3cb984841ca2f6744dea5385c486",
-          "md5": "4fe01791b8e554476752a1dfcd6b5eb5"
+          "name": "ConnectorAPI-0.1.3.2-Alpha.jar",
+          "url": "ConnectorAPI-0.1.3.2-Alpha.jar",
+          "size": 25584,
+          "sha512": "5bcf029a0c549ab2a0eef3ebb40001047276531c8ca34a0166fa9037d8b16a54f8a20198c376b44b85cbf8af50ce1b9abaa27cb532e69f831554819860f9b0a0",
+          "sha256": "8adc267d951b3a84e7585bef70f9e158d92d48b659c9123d1fe8d9ef1e3b4a9c",
+          "sha1": "d9101e9f49d92e9f43531799ab79786d2ff885cb",
+          "md5": "cdde3c177a749d025058fc50fb4aacd9"
         }
       ]
     },
@@ -122,13 +122,13 @@
       ],
       "files": [
         {
-          "name": "ConnectorAPI-0.1.2.jar",
-          "url": "ConnectorAPI-0.1.2.jar",
-          "size": 24201,
-          "sha512": "46039544f42a70d299a1450e3d249b8da0e9b218159b8fc72d4d6d4783621e3e8cfe32e5858c035b88f40763d57e7ba8d917707b4430303842e4fc0087f51fe9",
-          "sha256": "c8aeab4de5abcafa31bd8a8ea502c4b92207b81cc908f7a5c26799e13f2c4fca",
-          "sha1": "1dacef6b7d0c3cb984841ca2f6744dea5385c486",
-          "md5": "4fe01791b8e554476752a1dfcd6b5eb5"
+          "name": "ConnectorAPI-0.1.3.2-Alpha.jar",
+          "url": "ConnectorAPI-0.1.3.2-Alpha.jar",
+          "size": 25584,
+          "sha512": "5bcf029a0c549ab2a0eef3ebb40001047276531c8ca34a0166fa9037d8b16a54f8a20198c376b44b85cbf8af50ce1b9abaa27cb532e69f831554819860f9b0a0",
+          "sha256": "8adc267d951b3a84e7585bef70f9e158d92d48b659c9123d1fe8d9ef1e3b4a9c",
+          "sha1": "d9101e9f49d92e9f43531799ab79786d2ff885cb",
+          "md5": "cdde3c177a749d025058fc50fb4aacd9"
         }
       ]
     },
@@ -142,13 +142,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.2-sources.jar",
-          "url": "ConnectorAPI-0.1.2-sources.jar",
-          "size": 13332,
-          "sha512": "431b194259c8698846e06b4d3ef88fb773f71b7e9e1dee6e86a05ef02dcaeb2a4f446c428dd45d4256ffc3a8cb89f266aa37f4d453da48cf24b54d2268b48da1",
-          "sha256": "39a70917262dc111201efe7c2422c4615fa2a5a72889a41758935e972bbc26bf",
-          "sha1": "b4a813e6ab538a66975b7835f464a5bd30634c5d",
-          "md5": "c776440421648541a9db77a710a9fcb3"
+          "name": "ConnectorAPI-0.1.3.2-Alpha-sources.jar",
+          "url": "ConnectorAPI-0.1.3.2-Alpha-sources.jar",
+          "size": 14559,
+          "sha512": "703e817b01b858c0d82480346ccff4d98b58b39f639a9f9c70522accc7b6a803d4bea51cb811dad9942f4008ad6d09fd30a9a605875533ed22809db5b28b25e4",
+          "sha256": "4834432187ff633d9114f421255031bb7f073840e5f714403b294be45aab748e",
+          "sha1": "a964c952aa6ffb2b1f149579fe7a498e769c6bef",
+          "md5": "d6342e06d3c06186075905896e8f0bdc"
         }
       ]
     },
@@ -162,13 +162,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.2-javadoc.jar",
-          "url": "ConnectorAPI-0.1.2-javadoc.jar",
-          "size": 138765,
-          "sha512": "d4aaf9994fee9bd97d5405a91d9498958a0b4eec8d7906a8aa8de1f12dcc4b344854fc4f378a4adfdbcd1fdddb9744aaaf960ccec6e8b14359839aba94b8439f",
-          "sha256": "57c9614afda146466575312c19a1576a50821dffbb77302f75b9e71efa604ef4",
-          "sha1": "a5a0584799bbabca3a9163a6a49f7183485a6e01",
-          "md5": "1c9fd5db4bea80ef55326b56877f4ad0"
+          "name": "ConnectorAPI-0.1.3.2-Alpha-javadoc.jar",
+          "url": "ConnectorAPI-0.1.3.2-Alpha-javadoc.jar",
+          "size": 145522,
+          "sha512": "1d427349b757bacbd4f47cabb201e1818b19be84a059b922561b7d63afd2780a8b4429f8758048e22c8fa6301fc588e528855c49be948c79ae24a15efab9ece9",
+          "sha256": "4c26e4988c31cb87bf340c25720dc15852af2c053fe35e574e961c7352d171af",
+          "sha1": "6c6526d329216e366713f1db82349810b6acf244",
+          "md5": "c0ee5bce673e61d6b046f5c74868fc94"
         }
       ]
     }
