@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectorAPI</artifactId>
-  <version>0.1.3.1-Alpha</version>
+  <version>0.1.3.2-Alpha</version>
   <name>ConnectorAPI</name>
   <description>A library for connecting to APIs</description>
   <url>https://sandro642.github.io/connectorapi</url>
