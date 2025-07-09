@@ -27,11 +27,11 @@
         {
           "name": "ConnectorAPI-0.1.3.0-Alpha.jar",
           "url": "ConnectorAPI-0.1.3.0-Alpha.jar",
-          "size": 24711,
-          "sha512": "e4a401c4abba0e1231fbecc710aafcd44feae8a701fd3719325935056dd7a5978561fcc1eeae7ddf1edf9521d557c28df242941a58d7d541faf8ae65e5572893",
-          "sha256": "ee3aabd9c3d7cf184547e5b7b444d24f8db5281269de1b7e54ea739c846e0e2a",
-          "sha1": "b050318afed41cb6e4f0bc6317db0be5d2577848",
-          "md5": "d18ae9a07d06d7b24db1803db9c7d7b5"
+          "size": 25646,
+          "sha512": "5969957a37ba131eab91ebee9a3e7a9bbde2ead7130204071a909f975ef98b74a1490e94c1e0fc003dc5cd0ea3638fb6388bb0eac160ff309d1b9a78c5331832",
+          "sha256": "87df6c66deeb65b1d28b8378405f36633fde05451c6210ba396f0a2d63811200",
+          "sha1": "c13c8f1756fc336f7e872dda85d4f928ae1e6a9d",
+          "md5": "a6a1a218d99c6dd3804b14dcd3f638f8"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "ConnectorAPI-0.1.3.0-Alpha.jar",
           "url": "ConnectorAPI-0.1.3.0-Alpha.jar",
-          "size": 24711,
-          "sha512": "e4a401c4abba0e1231fbecc710aafcd44feae8a701fd3719325935056dd7a5978561fcc1eeae7ddf1edf9521d557c28df242941a58d7d541faf8ae65e5572893",
-          "sha256": "ee3aabd9c3d7cf184547e5b7b444d24f8db5281269de1b7e54ea739c846e0e2a",
-          "sha1": "b050318afed41cb6e4f0bc6317db0be5d2577848",
-          "md5": "d18ae9a07d06d7b24db1803db9c7d7b5"
+          "size": 25646,
+          "sha512": "5969957a37ba131eab91ebee9a3e7a9bbde2ead7130204071a909f975ef98b74a1490e94c1e0fc003dc5cd0ea3638fb6388bb0eac160ff309d1b9a78c5331832",
+          "sha256": "87df6c66deeb65b1d28b8378405f36633fde05451c6210ba396f0a2d63811200",
+          "sha1": "c13c8f1756fc336f7e872dda85d4f928ae1e6a9d",
+          "md5": "a6a1a218d99c6dd3804b14dcd3f638f8"
         }
       ]
     },
@@ -144,11 +144,11 @@
         {
           "name": "ConnectorAPI-0.1.3.0-Alpha-sources.jar",
           "url": "ConnectorAPI-0.1.3.0-Alpha-sources.jar",
-          "size": 13681,
-          "sha512": "7fa80e596382c8203b1cc37653edb9628f38976bb6299355884956572f7bd5cc86e79b96be38be94167ae2a53f28d99fd877bdd317e327f212908811f2461de8",
-          "sha256": "0cd0b88a334f697491a9a5338bb0a6c15a4aa6c4203ca00f33acd0dc91441c3c",
-          "sha1": "ed0e6126a439f612d4f1ad2437f58b07f37161d3",
-          "md5": "2281d8b135924372f3386c9da175f2bc"
+          "size": 14549,
+          "sha512": "e44c78a8ca53b132ebb131629dc01a45fa5e2dbdc7c369768aaf189f396b5f59117448902c6d7f95f31f49bd0592203b7381f594dcad314a01f7a2b076b1bbbb",
+          "sha256": "0b5cb31e0da0e00f1617806683f3067bbeae64acf079ed0fcd3be5bfad1fea11",
+          "sha1": "c2c03a07071feeabe8dcafb3d29bb4679460772f",
+          "md5": "37d0b75cd86d71c993c1ae5b233c7247"
         }
       ]
     },
@@ -164,11 +164,11 @@
         {
           "name": "ConnectorAPI-0.1.3.0-Alpha-javadoc.jar",
           "url": "ConnectorAPI-0.1.3.0-Alpha-javadoc.jar",
-          "size": 144011,
-          "sha512": "2c4b905c44d361409320c310f5bf59ca2cb8117cb77fd48753c9946d85e6fe23cb290a1d852a954165821eb114dfae5608e023c8c973a46f4d606b009101b7ec",
-          "sha256": "4e74c67d0cf99f5195623186ccbd6510c74d5079752cbbb88854fca53074b55d",
-          "sha1": "0bbfa446aa88783f864d03e99e5265dbb5535263",
-          "md5": "aa07ebfc5f037095d4ee340cbc1447a1"
+          "size": 144911,
+          "sha512": "49e8de665cedcd5c1460cb9d69aa9b076694bd53319514dec54a31d3a69305d11968b223b0b5e07071dca7a0671eff47bb1df6d398b8a34ca9386af45528f0cc",
+          "sha256": "aac3840b852a37e71424a871d2ff5912ac99cd7b5ae635a83bb1244918ae7bef",
+          "sha1": "472feb816754f4a0f665bf5d31f77047ded689c6",
+          "md5": "0eba5ba648de50d465c9cb619ca7b976"
         }
       ]
     }
