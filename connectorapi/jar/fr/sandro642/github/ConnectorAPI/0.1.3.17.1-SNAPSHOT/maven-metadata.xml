@@ -3,38 +3,38 @@
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectorAPI</artifactId>
   <versioning>
-    <lastUpdated>20250710161232</lastUpdated>
+    <lastUpdated>20250710162011</lastUpdated>
     <snapshot>
-      <timestamp>20250710.161232</timestamp>
+      <timestamp>20250710.162011</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.3.17.1-20250710.161232-1</value>
-        <updated>20250710161232</updated>
+        <value>0.1.3.17.1-20250710.162011-1</value>
+        <updated>20250710162011</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.3.17.1-20250710.161232-1</value>
-        <updated>20250710161232</updated>
+        <value>0.1.3.17.1-20250710.162011-1</value>
+        <updated>20250710162011</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.3.17.1-20250710.161232-1</value>
-        <updated>20250710161232</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.3.17.1-20250710.161232-1</value>
-        <updated>20250710161232</updated>
+        <value>0.1.3.17.1-20250710.162011-1</value>
+        <updated>20250710162011</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.1.3.17.1-20250710.161232-1</value>
-        <updated>20250710161232</updated>
+        <value>0.1.3.17.1-20250710.162011-1</value>
+        <updated>20250710162011</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.3.17.1-20250710.162011-1</value>
+        <updated>20250710162011</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
