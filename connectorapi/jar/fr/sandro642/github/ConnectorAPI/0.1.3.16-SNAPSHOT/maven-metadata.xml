@@ -3,38 +3,38 @@
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectorAPI</artifactId>
   <versioning>
-    <lastUpdated>20250710152135</lastUpdated>
+    <lastUpdated>20250710152746</lastUpdated>
     <snapshot>
-      <timestamp>20250710.152135</timestamp>
+      <timestamp>20250710.152746</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>0.1.3.16-20250710.152135-1</value>
-        <updated>20250710152135</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.3.16-20250710.152135-1</value>
-        <updated>20250710152135</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.3.16-20250710.152135-1</value>
-        <updated>20250710152135</updated>
+        <value>0.1.3.16-20250710.152746-1</value>
+        <updated>20250710152746</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.1.3.16-20250710.152746-1</value>
+        <updated>20250710152746</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.3.16-20250710.152135-1</value>
-        <updated>20250710152135</updated>
+        <value>0.1.3.16-20250710.152746-1</value>
+        <updated>20250710152746</updated>
       </snapshotVersion>
       <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.3.16-20250710.152746-1</value>
+        <updated>20250710152746</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.3.16-20250710.152135-1</value>
-        <updated>20250710152135</updated>
+        <value>0.1.3.16-20250710.152746-1</value>
+        <updated>20250710152746</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
