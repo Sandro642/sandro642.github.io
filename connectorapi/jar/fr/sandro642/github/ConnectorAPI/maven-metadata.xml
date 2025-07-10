@@ -3,10 +3,10 @@
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectorAPI</artifactId>
   <versioning>
-    <latest>0.1.3.17-SNAPSHOT</latest>
+    <latest>0.1.3.17.0-SNAPSHOT</latest>
     <versions>
-      <version>0.1.3.17-SNAPSHOT</version>
+      <version>0.1.3.17.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250710154517</lastUpdated>
+    <lastUpdated>20250710160101</lastUpdated>
   </versioning>
 </metadata>
