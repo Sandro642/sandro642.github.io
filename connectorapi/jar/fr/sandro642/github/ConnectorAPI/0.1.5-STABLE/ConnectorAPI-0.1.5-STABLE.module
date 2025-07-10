@@ -28,10 +28,10 @@
           "name": "ConnectorAPI-0.1.5-STABLE.jar",
           "url": "ConnectorAPI-0.1.5-STABLE.jar",
           "size": 25740,
-          "sha512": "0e49d7f5bd66711e88665104d350776bd007692c39a8ba5a8eebf87f59b4405a8d42ee1a05a31af0ec4990d12f2e95856055e67d8fe47068b8bcd954c10a141f",
-          "sha256": "f840200e5434ef01202cd969e47b9daccfb4c8a47bac454f06308d415e609738",
-          "sha1": "80541cad425f05edf62e943f7d9d3812e2cc9e07",
-          "md5": "87ecfa65536df2c0d8b3af1e6a38b229"
+          "sha512": "ef6c6ac954bae75ecdb18a6c693d807ce2cdf66b4cf34fae30490ede5409944539602b6f87ef6b2ee22e403106e4aa37858f3a60ee06a2145a8af8e63488d807",
+          "sha256": "af35a43c7c25471300769cd9df7f86c297ac021956abcc2b8ac761884f13ad3a",
+          "sha1": "9ce9e1a9a1cdab7b310fb548a21ec5165b692287",
+          "md5": "a92e59285e6aab62716dbfb12b7efd09"
         }
       ]
     },
@@ -125,10 +125,10 @@
           "name": "ConnectorAPI-0.1.5-STABLE.jar",
           "url": "ConnectorAPI-0.1.5-STABLE.jar",
           "size": 25740,
-          "sha512": "0e49d7f5bd66711e88665104d350776bd007692c39a8ba5a8eebf87f59b4405a8d42ee1a05a31af0ec4990d12f2e95856055e67d8fe47068b8bcd954c10a141f",
-          "sha256": "f840200e5434ef01202cd969e47b9daccfb4c8a47bac454f06308d415e609738",
-          "sha1": "80541cad425f05edf62e943f7d9d3812e2cc9e07",
-          "md5": "87ecfa65536df2c0d8b3af1e6a38b229"
+          "sha512": "ef6c6ac954bae75ecdb18a6c693d807ce2cdf66b4cf34fae30490ede5409944539602b6f87ef6b2ee22e403106e4aa37858f3a60ee06a2145a8af8e63488d807",
+          "sha256": "af35a43c7c25471300769cd9df7f86c297ac021956abcc2b8ac761884f13ad3a",
+          "sha1": "9ce9e1a9a1cdab7b310fb548a21ec5165b692287",
+          "md5": "a92e59285e6aab62716dbfb12b7efd09"
         }
       ]
     },
@@ -145,10 +145,10 @@
           "name": "ConnectorAPI-0.1.5-STABLE-sources.jar",
           "url": "ConnectorAPI-0.1.5-STABLE-sources.jar",
           "size": 14656,
-          "sha512": "2b0de02d758003c0e3ada2951b6d6f9cf86cb9c90bcd0693dbec0b98e8efd0e198855936b5e58dfb7f9c7d7ebe32d2f3b762cde4734d0963fc10d928febecda2",
-          "sha256": "b02bfff70bd828ab0f982867e2739bb3c1f77bb0f3cc6a6fa7cc6b3e0094a9db",
-          "sha1": "c5ce2d7c4e34066d9fcdb8352f62175f5cf9ce87",
-          "md5": "5887dcf061f2cf6009a88054777ef617"
+          "sha512": "d6b2171db796e63da6e5b665e76161124fa6e43ee8210bd3fee388754e9fea06c33aa413dcb4fee42714bd46044618737734e6bbd69eaee06e8b9e28a0279894",
+          "sha256": "ae182c152505e594c959b1db2d45535ad880e130844d6932565915e8ac8aad09",
+          "sha1": "10118730375720120ba83f746ec3204607dec270",
+          "md5": "34648c551deb54a8c87373d3cbba5efa"
         }
       ]
     },
@@ -165,10 +165,10 @@
           "name": "ConnectorAPI-0.1.5-STABLE-javadoc.jar",
           "url": "ConnectorAPI-0.1.5-STABLE-javadoc.jar",
           "size": 145204,
-          "sha512": "269b56ae7b9b935eb6228d1dc0f49c87c84716c5c35201e6db68cdf5cbb230447da71640ebaa3d4527775e4aa08fd35cc645ecccfa9501671def559f06dc450c",
-          "sha256": "6299d31c8c8f9124211e65ec6616fb66e6966e04f8d2525b43685d371103b6cf",
-          "sha1": "7402cdb1b92c721c5d3c626e6cc3a834a86d6678",
-          "md5": "505739bb08d9017cc24e3a9e91d487a9"
+          "sha512": "331906d77a9c7c3833443ab6ac0e3b2e0e5ffb71966619e7931c5799b85b078007acef92ce6762f60fd6eae05b021641b81bcac7eddf6e071dc25f8ecfa4ce67",
+          "sha256": "2adc894ed3e3c2b316ff144c8705ad9c75011400423979838b266661c45bda51",
+          "sha1": "9b2e2b197da3f7d3e2a6ae4d3b290fd042c6e5b2",
+          "md5": "1c0a2aefbd3c11457973c3e71f0c90e4"
         }
       ]
     }
