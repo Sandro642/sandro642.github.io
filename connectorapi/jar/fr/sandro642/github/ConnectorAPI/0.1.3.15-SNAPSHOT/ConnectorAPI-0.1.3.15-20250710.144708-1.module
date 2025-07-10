@@ -3,7 +3,7 @@
   "component": {
     "group": "fr.sandro642.github",
     "module": "ConnectorAPI",
-    "version": "0.1.3.14-SNAPSHOT",
+    "version": "0.1.3.15-SNAPSHOT",
     "attributes": {
       "org.gradle.status": "integration"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.3.14-SNAPSHOT.jar",
-          "url": "ConnectorAPI-0.1.3.14-SNAPSHOT.jar",
-          "size": 30635,
-          "sha512": "c0a81f28bc529f651efd0f7429820e54fbd824874cd1d5c52f67a7f3676ec4566fd404654ed42c9f5bb9631f64a4b71e90f476bc74f540def0ffab81373ef191",
-          "sha256": "dbad14b825ee63747616818b89dd8b1e5b562c2fe54ba9b2749abf6c54208c06",
-          "sha1": "ce1f1b0b8cc4ff4cb8adfa70488244363fcf4bd2",
-          "md5": "9927bcb70eaf322d8c6f1741008197c3"
+          "name": "ConnectorAPI-0.1.3.15-SNAPSHOT.jar",
+          "url": "ConnectorAPI-0.1.3.15-SNAPSHOT.jar",
+          "size": 31830,
+          "sha512": "220e44d2a3ac951ec2acb44000110c4d82d867ea61e82369b7b8ac3aaa8c0fb324572b313fc82c7c5ca452caf19a5ddaa04792e3fbae09d32edfd560fb6ab03b",
+          "sha256": "90977f643036df46082b0c47f931402d35dfabba95ac78baa4361954dfb03b78",
+          "sha1": "433cbcc06b3d77d7d94f5a428b258e2e51de80d2",
+          "md5": "62b35f1261cc0c3229157b0f038d964f"
         }
       ]
     },
@@ -122,13 +122,13 @@
       ],
       "files": [
         {
-          "name": "ConnectorAPI-0.1.3.14-SNAPSHOT.jar",
-          "url": "ConnectorAPI-0.1.3.14-SNAPSHOT.jar",
-          "size": 30635,
-          "sha512": "c0a81f28bc529f651efd0f7429820e54fbd824874cd1d5c52f67a7f3676ec4566fd404654ed42c9f5bb9631f64a4b71e90f476bc74f540def0ffab81373ef191",
-          "sha256": "dbad14b825ee63747616818b89dd8b1e5b562c2fe54ba9b2749abf6c54208c06",
-          "sha1": "ce1f1b0b8cc4ff4cb8adfa70488244363fcf4bd2",
-          "md5": "9927bcb70eaf322d8c6f1741008197c3"
+          "name": "ConnectorAPI-0.1.3.15-SNAPSHOT.jar",
+          "url": "ConnectorAPI-0.1.3.15-SNAPSHOT.jar",
+          "size": 31830,
+          "sha512": "220e44d2a3ac951ec2acb44000110c4d82d867ea61e82369b7b8ac3aaa8c0fb324572b313fc82c7c5ca452caf19a5ddaa04792e3fbae09d32edfd560fb6ab03b",
+          "sha256": "90977f643036df46082b0c47f931402d35dfabba95ac78baa4361954dfb03b78",
+          "sha1": "433cbcc06b3d77d7d94f5a428b258e2e51de80d2",
+          "md5": "62b35f1261cc0c3229157b0f038d964f"
         }
       ]
     },
@@ -142,13 +142,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.3.14-SNAPSHOT-sources.jar",
-          "url": "ConnectorAPI-0.1.3.14-SNAPSHOT-sources.jar",
-          "size": 17698,
-          "sha512": "f51fb64271bdd9f0770c5a6c4e492d6bc7cd755ffee92225acad6633f245ab58c201bd948fa910aef3140070237fd7f38853c0c84b4e37a8931f53b90d3f7af1",
-          "sha256": "41d1570c3e84c396eb812b8056fbb50fe00a96742cdf4cdde9d265c861367c22",
-          "sha1": "5bdf07a1118b11a1df62e7257c1ec438d58b7a5a",
-          "md5": "b507c3ec269120eeeeb0b8c10db5ac9c"
+          "name": "ConnectorAPI-0.1.3.15-SNAPSHOT-sources.jar",
+          "url": "ConnectorAPI-0.1.3.15-SNAPSHOT-sources.jar",
+          "size": 18224,
+          "sha512": "0b177fffe2d3d1171548e55b6f82f974c63162b04f3b5ae4f12a72aa774a8fb07c9dca554cc74ece8fb42b9d8d1ff891cf181669c1fd754380b1f133ba768ec3",
+          "sha256": "fd8e324cb193670c2c3947a718587ecbaf3ea8b3f3d98de00a7bd321829333fb",
+          "sha1": "04112e40643b814dbb8817cadbb416fe800ef8f9",
+          "md5": "93b73ce61866360f5ca2a8310bcd47fe"
         }
       ]
     },
@@ -162,13 +162,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.3.14-SNAPSHOT-javadoc.jar",
-          "url": "ConnectorAPI-0.1.3.14-SNAPSHOT-javadoc.jar",
-          "size": 152604,
-          "sha512": "d776eb7ea51ba8d93e43f00a952f393ad054e687b2bf56a722d93da4bec9aac6d761ef9c479c0a8871d64b7ee5df082f19d413188ec37d126702d242d93c5743",
-          "sha256": "96c58f16d6ecbede929bcc99607471da7748b54bad2b3ebb1ff5ed3ca03b04bb",
-          "sha1": "aa55af269adb73a72dc5c878ddfca3703b938ada",
-          "md5": "d62fb0c70a2a65497cc56bbe42e619f6"
+          "name": "ConnectorAPI-0.1.3.15-SNAPSHOT-javadoc.jar",
+          "url": "ConnectorAPI-0.1.3.15-SNAPSHOT-javadoc.jar",
+          "size": 152550,
+          "sha512": "3748aeaf4dfbc9e46d1e2017874350a532f8bc71d8612a14892bc04f24ff8dc40585edf30502abe534fcfae794fa878ca88a12a27212429ee2e306c56da7add9",
+          "sha256": "f863712edfcb93cf7e743f5ce896e53926727c3e84e73d0aa310cd5d9ad62f18",
+          "sha1": "4f4e7d970a1c5c6392f14d11cf476e3c044af5d7",
+          "md5": "f77ce093427d20e6e15b3a9af818243d"
         }
       ]
     }
