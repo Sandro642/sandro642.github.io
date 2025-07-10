@@ -3,40 +3,40 @@
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectorAPI</artifactId>
   <versioning>
-    <lastUpdated>20250710141741</lastUpdated>
+    <lastUpdated>20250710143423</lastUpdated>
     <snapshot>
-      <timestamp>20250710.141741</timestamp>
+      <timestamp>20250710.143423</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.1.3.13-20250710.141741-1</value>
-        <updated>20250710141741</updated>
+        <extension>pom</extension>
+        <value>0.1.3.14-20250710.143423-1</value>
+        <updated>20250710143423</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.3.13-20250710.141741-1</value>
-        <updated>20250710141741</updated>
+        <value>0.1.3.14-20250710.143423-1</value>
+        <updated>20250710143423</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.3.13-20250710.141741-1</value>
-        <updated>20250710141741</updated>
+        <value>0.1.3.14-20250710.143423-1</value>
+        <updated>20250710143423</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.1.3.13-20250710.141741-1</value>
-        <updated>20250710141741</updated>
+        <value>0.1.3.14-20250710.143423-1</value>
+        <updated>20250710143423</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.1.3.13-20250710.141741-1</value>
-        <updated>20250710141741</updated>
+        <extension>jar</extension>
+        <value>0.1.3.14-20250710.143423-1</value>
+        <updated>20250710143423</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>0.1.3.13-SNAPSHOT</version>
+  <version>0.1.3.14-SNAPSHOT</version>
 </metadata>
