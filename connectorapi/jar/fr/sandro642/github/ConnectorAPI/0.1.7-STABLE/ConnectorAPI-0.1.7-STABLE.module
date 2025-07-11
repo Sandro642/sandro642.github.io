@@ -3,7 +3,7 @@
   "component": {
     "group": "fr.sandro642.github",
     "module": "ConnectorAPI",
-    "version": "0.1.6-STABLE",
+    "version": "0.1.7-STABLE",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.6-STABLE.jar",
-          "url": "ConnectorAPI-0.1.6-STABLE.jar",
-          "size": 25475,
-          "sha512": "50d576fcf36880b1f878f6bfae4b0de630e3516180c1b7b5de049675489a1b93e11d9757b560ead0dc4f48ffe2b9ac24a381c92b7f6d6b380b4d4790d7f325c5",
-          "sha256": "028bb10f49773ab26880ae19c1e696d0bca259860a1588e8390a5be0246194e8",
-          "sha1": "d6aa5a07b455a5df04a2bfad587090ccde8f76c8",
-          "md5": "221637eee8ba463874290854e7b2c368"
+          "name": "ConnectorAPI-0.1.7-STABLE.jar",
+          "url": "ConnectorAPI-0.1.7-STABLE.jar",
+          "size": 25478,
+          "sha512": "afb7ceda67a364172e0a8393660bd9fc6bc9d3336d73cc0dc1313a2c50f968696ff933ef83df5d5c6f6908cf8e56544f45129cd81ec8b77694303b86819f5089",
+          "sha256": "3261a430d4825269534fd8ab0e5f81f3b965712facd6db9aa4dabc3686286841",
+          "sha1": "425ee256c666e0e96f9d4d2aacf3ceebdd74714a",
+          "md5": "efefb1c261561e86a4ba753ae2f0f5ed"
         }
       ]
     },
@@ -122,13 +122,13 @@
       ],
       "files": [
         {
-          "name": "ConnectorAPI-0.1.6-STABLE.jar",
-          "url": "ConnectorAPI-0.1.6-STABLE.jar",
-          "size": 25475,
-          "sha512": "50d576fcf36880b1f878f6bfae4b0de630e3516180c1b7b5de049675489a1b93e11d9757b560ead0dc4f48ffe2b9ac24a381c92b7f6d6b380b4d4790d7f325c5",
-          "sha256": "028bb10f49773ab26880ae19c1e696d0bca259860a1588e8390a5be0246194e8",
-          "sha1": "d6aa5a07b455a5df04a2bfad587090ccde8f76c8",
-          "md5": "221637eee8ba463874290854e7b2c368"
+          "name": "ConnectorAPI-0.1.7-STABLE.jar",
+          "url": "ConnectorAPI-0.1.7-STABLE.jar",
+          "size": 25478,
+          "sha512": "afb7ceda67a364172e0a8393660bd9fc6bc9d3336d73cc0dc1313a2c50f968696ff933ef83df5d5c6f6908cf8e56544f45129cd81ec8b77694303b86819f5089",
+          "sha256": "3261a430d4825269534fd8ab0e5f81f3b965712facd6db9aa4dabc3686286841",
+          "sha1": "425ee256c666e0e96f9d4d2aacf3ceebdd74714a",
+          "md5": "efefb1c261561e86a4ba753ae2f0f5ed"
         }
       ]
     },
@@ -142,13 +142,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.6-STABLE-sources.jar",
-          "url": "ConnectorAPI-0.1.6-STABLE-sources.jar",
-          "size": 14630,
-          "sha512": "3b095049f4794b567093a4902e5ae110f4fc269d9cfd117c72c30adbc3b8feb9ea10e9d03ee503a2097708d20499c88eaea413f9b8d374ba9445d31576ab3a91",
-          "sha256": "a6892b44342816d746f52184911315d3a70b70d657212535d103df91b4b29656",
-          "sha1": "b8a45131ebcdb4b5464ec1b32a142d36866cfeba",
-          "md5": "dee13592e570dd40fe87faef4702d225"
+          "name": "ConnectorAPI-0.1.7-STABLE-sources.jar",
+          "url": "ConnectorAPI-0.1.7-STABLE-sources.jar",
+          "size": 14649,
+          "sha512": "8c13e6f31f8e08df4f94908bb17a1c04d7eaa67f7e4b129ce2b4fa641107b109360f257774c719e8a3e3f1cedb7dcd119bb02b22f807a8a04977a45410658f66",
+          "sha256": "44d5dfd13aaddfd89675584599cac709b127b9e18e8a8321d3ceda76edb9b2b2",
+          "sha1": "98f0a85c659f5d291b991e11002f3855135fa22f",
+          "md5": "fbbecebffe6a36ce3bd939f5ca4d2c67"
         }
       ]
     },
@@ -162,13 +162,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.6-STABLE-javadoc.jar",
-          "url": "ConnectorAPI-0.1.6-STABLE-javadoc.jar",
-          "size": 145054,
-          "sha512": "61a848d9fe6ffa209cb9e9265a4371a9322f293306917a0346b1c1c5e6fe1f576d52ff45034ace9f17628bb19b08ea706339f7e3d4e725e7085457dad378f1c2",
-          "sha256": "e60a5e96150ce807c8fa76d009fe0029cb2a6cafadc6148f540c556252353aa1",
-          "sha1": "c5a5a984fed1afccef860d211c5f168e512002d6",
-          "md5": "86910b95653aac15ce09667f951967d3"
+          "name": "ConnectorAPI-0.1.7-STABLE-javadoc.jar",
+          "url": "ConnectorAPI-0.1.7-STABLE-javadoc.jar",
+          "size": 145137,
+          "sha512": "cd6efb94dade19c5f1e745578dc879750855121949c90697968137ba761caa06d16b6b6c332894e2286f5a8e0bc4f45034d4d9546efcf74c4f6520380d1b9033",
+          "sha256": "50f13f1f4d537147621e7985e58ab5d6653e3c5343a10172b06468ef8126693f",
+          "sha1": "6af65b1371551004848de5b7ad6dd87cbd6d7502",
+          "md5": "439aedd2f25ac0cf24ff65c83c382f34"
         }
       ]
     }
