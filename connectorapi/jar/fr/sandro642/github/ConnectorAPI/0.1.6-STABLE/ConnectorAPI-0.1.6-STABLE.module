@@ -3,7 +3,7 @@
   "component": {
     "group": "fr.sandro642.github",
     "module": "ConnectorAPI",
-    "version": "0.1.5-STABLE",
+    "version": "0.1.6-STABLE",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.5-STABLE.jar",
-          "url": "ConnectorAPI-0.1.5-STABLE.jar",
+          "name": "ConnectorAPI-0.1.6-STABLE.jar",
+          "url": "ConnectorAPI-0.1.6-STABLE.jar",
           "size": 25475,
-          "sha512": "165f9c41bfe558bd02791a31b1b9d2baae76538558a1a0a432437910614bf351ed8e905255caadcf0f263b0568195d4db037a447f19bfd2248ab0cb74eb845b6",
-          "sha256": "0bbdb54cc6df4a1368bea51fefc551ccaf20f42cb79ca89af1e4f781e1fbb062",
-          "sha1": "e9f0cc4af8df5493aa1a860da1d566ba1d5bb9c7",
-          "md5": "a2b3495529f3cd7eea34b11c90339be0"
+          "sha512": "cf1e7ea4179e1f69ec6d5276e43bb26cf5f6b3b5dc0f184a88248e768904ffedcbc030001dd66b37f8dfad5412ab80b752dbf7e2ce24e1c8f97954e4721b9053",
+          "sha256": "8d300d448b4fffc56382445f5a806b3ac55aa7bcc4852a4cd46df004e956227b",
+          "sha1": "b5b03d9d12cbbe365ac23e69300d3ab998bb34bc",
+          "md5": "cf8e661be48e5ec8b853b100c54fe65b"
         }
       ]
     },
@@ -122,13 +122,13 @@
       ],
       "files": [
         {
-          "name": "ConnectorAPI-0.1.5-STABLE.jar",
-          "url": "ConnectorAPI-0.1.5-STABLE.jar",
+          "name": "ConnectorAPI-0.1.6-STABLE.jar",
+          "url": "ConnectorAPI-0.1.6-STABLE.jar",
           "size": 25475,
-          "sha512": "165f9c41bfe558bd02791a31b1b9d2baae76538558a1a0a432437910614bf351ed8e905255caadcf0f263b0568195d4db037a447f19bfd2248ab0cb74eb845b6",
-          "sha256": "0bbdb54cc6df4a1368bea51fefc551ccaf20f42cb79ca89af1e4f781e1fbb062",
-          "sha1": "e9f0cc4af8df5493aa1a860da1d566ba1d5bb9c7",
-          "md5": "a2b3495529f3cd7eea34b11c90339be0"
+          "sha512": "cf1e7ea4179e1f69ec6d5276e43bb26cf5f6b3b5dc0f184a88248e768904ffedcbc030001dd66b37f8dfad5412ab80b752dbf7e2ce24e1c8f97954e4721b9053",
+          "sha256": "8d300d448b4fffc56382445f5a806b3ac55aa7bcc4852a4cd46df004e956227b",
+          "sha1": "b5b03d9d12cbbe365ac23e69300d3ab998bb34bc",
+          "md5": "cf8e661be48e5ec8b853b100c54fe65b"
         }
       ]
     },
@@ -142,13 +142,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.5-STABLE-sources.jar",
-          "url": "ConnectorAPI-0.1.5-STABLE-sources.jar",
+          "name": "ConnectorAPI-0.1.6-STABLE-sources.jar",
+          "url": "ConnectorAPI-0.1.6-STABLE-sources.jar",
           "size": 14630,
-          "sha512": "b28cd90ec4beb96e1dc105fd095586d118306d4f8b9a2e46edfdbfb026a0f0a82aa3d302b3554e14eb0b4c7425477da06bb8471bd5ac3ec709f48d7e9b59d9c2",
-          "sha256": "d90937433b998aca6de75d1b9025acc43b9339059d0b8fdcd27f88c56fcdcc03",
-          "sha1": "151a7f923dd666e09bca75cc3f5348f62b27a34a",
-          "md5": "1912a851fd7790dbb6898d89ec01e8bf"
+          "sha512": "64cec2128219ff1f24e217777d9650167d3bd03fc6ab8a2680d7b5e50eed4988a85b919d4b952c48dac86b5aef7bcf3db2055ae67cbb918577068d7e26332b92",
+          "sha256": "b236c19607ca8e99df7250cd7e61d47a67c4b4904bd93cb906f051e7f65b9653",
+          "sha1": "dfe552398accd156dd53fc77cc559ed67b987549",
+          "md5": "319a299e91004ef76d8bf2ed9b6c2b36"
         }
       ]
     },
@@ -162,13 +162,13 @@
       },
       "files": [
         {
-          "name": "ConnectorAPI-0.1.5-STABLE-javadoc.jar",
-          "url": "ConnectorAPI-0.1.5-STABLE-javadoc.jar",
-          "size": 145059,
-          "sha512": "20db661272f11219668f6139e9d471602f22ea671fc6349d609f093c5a78d67255d0a9a78de02cfc14202b8c91732850b0b737facac63d3206a8120a96029e37",
-          "sha256": "130bfad5aa4562259338c4c0c7cbf5dae33d54665d90a5245cfea7447c181029",
-          "sha1": "deffbbf7ee6c5663614a51c69209384a3405d080",
-          "md5": "e1ca59f202faf6bebd6a72cba43d9150"
+          "name": "ConnectorAPI-0.1.6-STABLE-javadoc.jar",
+          "url": "ConnectorAPI-0.1.6-STABLE-javadoc.jar",
+          "size": 145054,
+          "sha512": "57c9679b4613b07d0bd8a35a12cd5afb3831702521d31f69615ab09e1dfe7b32cbdc20e1d0e8996b64dfb3852486d5b8f734c72e11472b465492e5769964f0bf",
+          "sha256": "b0593eda19e6ead7baefe461aea0bcff4327a6519cd6b5808488668b69f6c926",
+          "sha1": "37cee813f35bae2cdc8fa1f201365977110cbaee",
+          "md5": "e8e1dc915bc2622777711b253683f005"
         }
       ]
     }
