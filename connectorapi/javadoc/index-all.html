@@ -104,6 +104,14 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Vérifie si la map contient une clé spécifiée.</div>
 </dd>
+<dt><a href="fr/sandro642/github/utils/ConvertEnum.html#convert(java.lang.Class)" class="member-name-link">convert(Class&lt;? extends Enum&lt;?&gt;&gt;)</a> - Static method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/ConvertEnum.html" title="class in fr.sandro642.github.utils">ConvertEnum</a></dt>
+<dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/utils/ConvertEnum.html" class="type-name-link" title="class in fr.sandro642.github.utils">ConvertEnum</a> - Class in <a href="fr/sandro642/github/utils/package-summary.html">fr.sandro642.github.utils</a></dt>
+<dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/utils/ConvertEnum.html#%3Cinit%3E()" class="member-name-link">ConvertEnum()</a> - Constructor for class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/ConvertEnum.html" title="class in fr.sandro642.github.utils">ConvertEnum</a></dt>
+<dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/utils/ConvertEnum.RouteImport.html" class="type-name-link" title="interface in fr.sandro642.github.utils">ConvertEnum.RouteImport</a> - Interface in <a href="fr/sandro642/github/utils/package-summary.html">fr.sandro642.github.utils</a></dt>
+<dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/utils/Logger.html#CRITICAL(java.lang.String)" class="member-name-link">CRITICAL(String)</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/Logger.html" title="class in fr.sandro642.github.utils">Logger</a></dt>
 <dd>
 <div class="block">Méthode pour afficher un message critique dans la console.</div>
@@ -115,7 +123,8 @@ loadScripts(document, 'script');</script>
 <dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#display()" class="member-name-link">display()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type Long.</div>
+<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé
+ et la convertit en type Long.</div>
 </dd>
 </dl>
 <h2 class="title" id="I:E">E</h2>
@@ -152,7 +161,7 @@ loadScripts(document, 'script');</script>
 </dl>
 <h2 class="title" id="I:G">G</h2>
 <dl class="index">
-<dt><a href="fr/sandro642/github/utils/YamlUtils.html#generateTemplateIfNotExists(fr.sandro642.github.jobs.misc.ResourceType)" class="member-name-link">generateTemplateIfNotExists(ResourceType)</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/YamlUtils.html" title="class in fr.sandro642.github.utils">YamlUtils</a></dt>
+<dt><a href="fr/sandro642/github/utils/YamlUtils.html#generateTemplateIfNotExists(fr.sandro642.github.jobs.misc.ResourceType,java.util.Map)" class="member-name-link">generateTemplateIfNotExists(ResourceType, Map&lt;Enum&lt;?&gt;, String&gt;)</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/YamlUtils.html" title="class in fr.sandro642.github.utils">YamlUtils</a></dt>
 <dd>
 <div class="block">Génère un template de fichier YAML si le fichier n'existe pas déjà.</div>
 </dd>
@@ -194,11 +203,43 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Exécute la requête API et retourne la réponse</div>
 </dd>
+<dt><a href="fr/sandro642/github/ConnectorAPI.html#getRoute(java.lang.Enum)" class="member-name-link">getRoute(Enum&lt;?&gt;)</a> - Static method in class fr.sandro642.github.<a href="fr/sandro642/github/ConnectorAPI.html" title="class in fr.sandro642.github">ConnectorAPI</a></dt>
+<dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/ConnectorAPI.html#getRoute(java.lang.String)" class="member-name-link">getRoute(String)</a> - Static method in class fr.sandro642.github.<a href="fr/sandro642/github/ConnectorAPI.html" title="class in fr.sandro642.github">ConnectorAPI</a></dt>
+<dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/utils/YamlUtils.html#getRoute(java.lang.String)" class="member-name-link">getRoute(String)</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/YamlUtils.html" title="class in fr.sandro642.github.utils">YamlUtils</a></dt>
 <dd>
 <div class="block">Récupère une route spécifique depuis le fichier YAML</div>
 </dd>
+<dt><a href="fr/sandro642/github/utils/YamlUtils.html#getRoutes()" class="member-name-link">getRoutes()</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/YamlUtils.html" title="class in fr.sandro642.github.utils">YamlUtils</a></dt>
+<dd>
+<div class="block">Récupère toutes les routes définies dans le fichier YAML</div>
+</dd>
+<dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.MethodType,java.lang.Enum)" class="member-name-link">getRoutes(MethodType, Enum&lt;?&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
+<dd>
+<div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète</div>
+</dd>
+<dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.MethodType,java.lang.Enum,java.util.Map)" class="member-name-link">getRoutes(MethodType, Enum&lt;?&gt;, Map&lt;String, Object&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
+<dd>
+<div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète avec un corps de requête</div>
+</dd>
+<dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.MethodType,java.lang.Enum,java.util.Map,java.util.Map)" class="member-name-link">getRoutes(MethodType, Enum&lt;?&gt;, Map&lt;String, Object&gt;, Map&lt;String, Object&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
+<dd>
+<div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète avec des paramètres</div>
+</dd>
 <dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.MethodType,java.lang.String)" class="member-name-link">getRoutes(MethodType, String)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
+<dd>
+<div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète</div>
+</dd>
+<dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.VersionType,fr.sandro642.github.jobs.misc.MethodType,java.lang.Enum)" class="member-name-link">getRoutes(VersionType, MethodType, Enum&lt;?&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
+<dd>
+<div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète</div>
+</dd>
+<dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.VersionType,fr.sandro642.github.jobs.misc.MethodType,java.lang.Enum,java.util.Map)" class="member-name-link">getRoutes(VersionType, MethodType, Enum&lt;?&gt;, Map&lt;String, Object&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
+<dd>
+<div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète</div>
+</dd>
+<dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.jobs.misc.VersionType,fr.sandro642.github.jobs.misc.MethodType,java.lang.Enum,java.util.Map,java.util.Map)" class="member-name-link">getRoutes(VersionType, MethodType, Enum&lt;?&gt;, Map&lt;String, Object&gt;, Map&lt;String, Object&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
 <dd>
 <div class="block">Récupère les routes depuis le fichier YAML et construit l'URL complète</div>
 </dd>
@@ -229,25 +270,34 @@ loadScripts(document, 'script');</script>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecData(java.lang.String)" class="member-name-link">getSpecData(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment">En raison de la nature générique de cette méthode créant des erreurs, il est recommandé d'utiliser les méthodes spécifiques pour chaque type de données. Cette méthode est obsolète et peut être supprimée dans les futures versions.</div>
+<div class="deprecation-comment">En raison de la nature générique de cette méthode créant des
+             erreurs, il est recommandé d'utiliser les méthodes spécifiques
+             pour chaque type de données. Cette méthode est obsolète et peut
+             être supprimée dans les futures versions.</div>
 </div>
 </dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecDataBoolean(java.lang.String)" class="member-name-link">getSpecDataBoolean(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type spécifié.</div>
+<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé
+ et la convertit en type spécifié.</div>
 </dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecDataDouble(java.lang.String)" class="member-name-link">getSpecDataDouble(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type Double.</div>
+<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé
+ et la convertit en type Double.</div>
 </dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecDataInteger(java.lang.String)" class="member-name-link">getSpecDataInteger(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type Integer.</div>
+<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé
+ et la convertit en type Integer.</div>
 </dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#getSpecDataString(java.lang.String)" class="member-name-link">getSpecDataString(String)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
-<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé et la convertit en type String.</div>
+<div class="block">Récupère une donnée spécifique à partir de la Map 'data' en utilisant une clé
+ et la convertit en type String.</div>
 </dd>
+<dt><a href="fr/sandro642/github/api/SchematicLoader.html#getTypeVariable()" class="member-name-link">getTypeVariable()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/SchematicLoader.html" title="class in fr.sandro642.github.api">SchematicLoader</a></dt>
+<dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/utils/YamlUtils.html#getURL()" class="member-name-link">getURL()</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/YamlUtils.html" title="class in fr.sandro642.github.utils">YamlUtils</a></dt>
 <dd>
 <div class="block">Récupère l'URL de base depuis le fichier YAML</div>
@@ -261,7 +311,7 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Méthode pour afficher un message d'information dans la console.</div>
 </dd>
-<dt><a href="fr/sandro642/github/ConnectorAPI.html#initialize(fr.sandro642.github.jobs.misc.ResourceType)" class="member-name-link">initialize(ResourceType)</a> - Static method in class fr.sandro642.github.<a href="fr/sandro642/github/ConnectorAPI.html" title="class in fr.sandro642.github">ConnectorAPI</a></dt>
+<dt><a href="fr/sandro642/github/ConnectorAPI.html#initialize(fr.sandro642.github.jobs.misc.ResourceType,java.lang.Class...)" class="member-name-link">initialize(ResourceType, Class&lt;? extends Enum&lt;?&gt;&gt;...)</a> - Static method in class fr.sandro642.github.<a href="fr/sandro642/github/ConnectorAPI.html" title="class in fr.sandro642.github">ConnectorAPI</a></dt>
 <dd>
 <div class="block">Initialise le ConnectorAPI avec le type de ressource spécifié</div>
 </dd>
@@ -277,6 +327,8 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Méthode permettant de vérifier si le plugin est initialisé.</div>
 </dd>
+<dt><a href="fr/sandro642/github/utils/YamlUtils.html#isSchemaEnabled()" class="member-name-link">isSchemaEnabled()</a> - Method in class fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/YamlUtils.html" title="class in fr.sandro642.github.utils">YamlUtils</a></dt>
+<dd>&nbsp;</dd>
 </dl>
 <h2 class="title" id="I:J">J</h2>
 <dl class="index">
@@ -356,9 +408,15 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Enumération pour définir les types de ressources utilisées dans le projet.</div>
 </dd>
+<dt><a href="fr/sandro642/github/utils/ConvertEnum.RouteImport.html#route()" class="member-name-link">route()</a> - Method in interface fr.sandro642.github.utils.<a href="fr/sandro642/github/utils/ConvertEnum.RouteImport.html" title="interface in fr.sandro642.github.utils">ConvertEnum.RouteImport</a></dt>
+<dd>&nbsp;</dd>
 </dl>
 <h2 class="title" id="I:S">S</h2>
 <dl class="index">
+<dt><a href="fr/sandro642/github/api/SchematicLoader.html" class="type-name-link" title="class in fr.sandro642.github.api">SchematicLoader</a> - Class in <a href="fr/sandro642/github/api/package-summary.html">fr.sandro642.github.api</a></dt>
+<dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/api/SchematicLoader.html#%3Cinit%3E()" class="member-name-link">SchematicLoader()</a> - Constructor for class fr.sandro642.github.api.<a href="fr/sandro642/github/api/SchematicLoader.html" title="class in fr.sandro642.github.api">SchematicLoader</a></dt>
+<dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/api/ApiResponse.html#setCode(int)" class="member-name-link">setCode(int)</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiResponse.html" title="class in fr.sandro642.github.api">ApiResponse</a></dt>
 <dd>
 <div class="block">Définit le code de statut de la réponse.</div>
