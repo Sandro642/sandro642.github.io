@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.sandro642.github",
+    "module": "ConnectLib",
+    "version": "0.2.4-STABLE",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ConnectLib-0.2.4-STABLE.jar",
+          "url": "ConnectLib-0.2.4-STABLE.jar",
+          "size": 25989,
+          "sha512": "8e2ebb95209ce54c85414aa210aefef3030fe4df50243e8d4e05ac3cb3c4d8260dafe603119ea2f9b7cdc22cd1b437141e1d259d51ccd471480febbea1b44f1b",
+          "sha256": "f48aa1fd652a631c232fc94f252cb0bc9e6d3a3aa5b5aa35e95eb48ac8cdbeba",
+          "sha1": "ed8f65ac44eafaa8f6863c8603040a60fe1d10e8",
+          "md5": "b756b21cb886cf09bdd74caec625edad"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.projectreactor",
+          "module": "reactor-core",
+          "version": {
+            "requires": "3.6.9"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-webflux",
+          "version": {
+            "requires": "3.2.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ConnectLib-0.2.4-STABLE.jar",
+          "url": "ConnectLib-0.2.4-STABLE.jar",
+          "size": 25989,
+          "sha512": "8e2ebb95209ce54c85414aa210aefef3030fe4df50243e8d4e05ac3cb3c4d8260dafe603119ea2f9b7cdc22cd1b437141e1d259d51ccd471480febbea1b44f1b",
+          "sha256": "f48aa1fd652a631c232fc94f252cb0bc9e6d3a3aa5b5aa35e95eb48ac8cdbeba",
+          "sha1": "ed8f65ac44eafaa8f6863c8603040a60fe1d10e8",
+          "md5": "b756b21cb886cf09bdd74caec625edad"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ConnectLib-0.2.4-STABLE-sources.jar",
+          "url": "ConnectLib-0.2.4-STABLE-sources.jar",
+          "size": 15727,
+          "sha512": "3edfe71c2eeb61cc99f183501895bc64a76720860386b4fdb18e79329a2989678a86ce2d4f6d99e0232621b5aafb81d0baf9128ab25e77db07a77342f90e08d2",
+          "sha256": "ad82ce5f483ee15248976d7aa7f23c915be5dbc179009298167c2a8ff4dfc78f",
+          "sha1": "8fff7a042b28937089f5aae95b9ddf6b23a7930e",
+          "md5": "88fdb5cbc6f9494b680e52938d4da1fc"
+        }
+      ]
+    }
+  ]
+}
