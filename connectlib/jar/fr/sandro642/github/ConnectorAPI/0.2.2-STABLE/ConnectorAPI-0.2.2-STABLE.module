@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.sandro642.github",
+    "module": "ConnectorAPI",
+    "version": "0.2.2-STABLE",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ConnectorAPI-0.2.2-STABLE.jar",
+          "url": "ConnectorAPI-0.2.2-STABLE.jar",
+          "size": 25515,
+          "sha512": "3a9b7446cc99f75f199e06592c39946c6cbba5034246fa034d3ae0e667f172dca8764dad73a37e60e484328f78c3761688607a6c7c069d5f05897862a030e64c",
+          "sha256": "9a43e7a872a88277e3caca9345eff15f89076cdd38b83f86bf48408ef95f9feb",
+          "sha1": "c6aea736e712c27de4a2f1c3b9d4b471b9e7beda",
+          "md5": "333e28840a02c2d9fe85de6b978fd2a2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.projectreactor",
+          "module": "reactor-core",
+          "version": {
+            "requires": "3.6.9"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-webflux",
+          "version": {
+            "requires": "3.2.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ConnectorAPI-0.2.2-STABLE.jar",
+          "url": "ConnectorAPI-0.2.2-STABLE.jar",
+          "size": 25515,
+          "sha512": "3a9b7446cc99f75f199e06592c39946c6cbba5034246fa034d3ae0e667f172dca8764dad73a37e60e484328f78c3761688607a6c7c069d5f05897862a030e64c",
+          "sha256": "9a43e7a872a88277e3caca9345eff15f89076cdd38b83f86bf48408ef95f9feb",
+          "sha1": "c6aea736e712c27de4a2f1c3b9d4b471b9e7beda",
+          "md5": "333e28840a02c2d9fe85de6b978fd2a2"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ConnectorAPI-0.2.2-STABLE-sources.jar",
+          "url": "ConnectorAPI-0.2.2-STABLE-sources.jar",
+          "size": 15290,
+          "sha512": "50a17303de118479211a586635126deec32b16c569df8d0c5e5db019d80a2c91264a0459eac01cbd01e57b852774a42c67c03e1f5d0e59c82f97b16bf4c307ce",
+          "sha256": "78d0b8ac8d7652ef69106dcef52774618de8987c41a930c2d4e15a1a50c69fa3",
+          "sha1": "ebbb76c294d7e51c6bf3d45ea15e1adecb4a1552",
+          "md5": "bd702d479ada7610cb9560162b2a40aa"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ConnectorAPI-0.2.2-STABLE-javadoc.jar",
+          "url": "ConnectorAPI-0.2.2-STABLE-javadoc.jar",
+          "size": 145369,
+          "sha512": "02e5694d1cd9b34ea35a0884cbe94d545c87e9439f31d56744cec03d22579e32b9359e9191f444781106e4ea54b9e854373279d9413a1b874309b1ef5d67dfd8",
+          "sha256": "36cdb909d597e7b8345d3885dab091a1b96a495aace32ccfeeb9726f611afe95",
+          "sha1": "8658eba5e4f3c33823f45caf78276001735e2b15",
+          "md5": "eb2609d6a8e4a6f0d8cb1166a65d5f1c"
+        }
+      ]
+    }
+  ]
+}

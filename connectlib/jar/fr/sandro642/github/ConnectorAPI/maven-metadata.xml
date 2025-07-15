@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.sandro642.github</groupId>
+  <artifactId>ConnectorAPI</artifactId>
+  <versioning>
+    <latest>0.2.2-STABLE</latest>
+    <release>0.2.2-STABLE</release>
+    <versions>
+      <version>0.2.2-STABLE</version>
+    </versions>
+    <lastUpdated>20250715093758</lastUpdated>
+  </versioning>
+</metadata>
