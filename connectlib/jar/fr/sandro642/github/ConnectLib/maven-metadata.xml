@@ -3,11 +3,11 @@
   <groupId>fr.sandro642.github</groupId>
   <artifactId>ConnectLib</artifactId>
   <versioning>
-    <latest>0.3.5-STABLE</latest>
-    <release>0.3.5-STABLE</release>
+    <latest>0.3.6-STABLE</latest>
+    <release>0.3.6-STABLE</release>
     <versions>
-      <version>0.3.5-STABLE</version>
+      <version>0.3.6-STABLE</version>
     </versions>
-    <lastUpdated>20251010073426</lastUpdated>
+    <lastUpdated>20251012152021</lastUpdated>
   </versioning>
 </metadata>
