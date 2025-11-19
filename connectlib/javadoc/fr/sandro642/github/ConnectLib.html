@@ -163,7 +163,7 @@ loadScripts(document, 'script');</script>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Return the instance of LangSupport.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#Logger()" class="member-name-link">Logger</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Return the instance of Logger.</div>
@@ -184,19 +184,24 @@ loadScripts(document, 'script');</script>
 <div class="block">Return the instance of StoreAndRetrieve.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#webServices()" class="member-name-link">webServices</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#wanImplement(java.lang.String)" class="member-name-link">wanImplement</a><wbr>(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a>&nbsp;urlServ)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Check if the ConnectLib supports web services.</div>
+<div class="block">Implement WAN connection to retrieve the port from the server.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#webServices(int,java.lang.String)" class="member-name-link">webServices</a><wbr>(int&nbsp;port,
- <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a>&nbsp;nameDashboard)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#webServices()" class="member-name-link">webServices</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="block">Check if the ConnectLib supports web services.</div>
+</div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#webServices(int,java.lang.String)" class="member-name-link">webServices</a><wbr>(int&nbsp;port,
+ <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a>&nbsp;nameDashboard)</code></div>
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Check if the ConnectLib supports web services on a specific port with a dashboard name.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="misc/YamlUtils.html" title="class in fr.sandro642.github.misc">YamlUtils</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#YamlUtils()" class="member-name-link">YamlUtils</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="misc/YamlUtils.html" title="class in fr.sandro642.github.misc">YamlUtils</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="#YamlUtils()" class="member-name-link">YamlUtils</a>()</code></div>
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Return the instance of YamlUtils.</div>
 </div>
 </div>
@@ -279,6 +284,17 @@ loadScripts(document, 'script');</script>
 </section>
 </li>
 <li>
+<section class="detail" id="wanImplement(java.lang.String)">
+<h3>wanImplement</h3>
+<div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type">void</span>&nbsp;<span class="element-name">wanImplement</span><wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang" class="external-link">String</a>&nbsp;urlServ)</span></div>
+<div class="block">Implement WAN connection to retrieve the port from the server.</div>
+<dl class="notes">
+<dt>Parameters:</dt>
+<dd><code>urlServ</code> - the server URL</dd>
+</dl>
+</section>
+</li>
+<li>
 <section class="detail" id="isInitialized()">
 <h3>isInitialized</h3>
 <div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type">boolean</span>&nbsp;<span class="element-name">isInitialized</span>()</div>
@@ -316,7 +332,7 @@ loadScripts(document, 'script');</script>
 <li>
 <section class="detail" id="Logger()">
 <h3>Logger</h3>
-<div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type"><a href="misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></span>&nbsp;<span class="element-name">Logger</span>()</div>
+<div class="member-signature"><span class="modifiers">public</span>&nbsp;<span class="return-type"><a href="log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></span>&nbsp;<span class="element-name">Logger</span>()</div>
 <div class="block">Return the instance of Logger.</div>
 <dl class="notes">
 <dt>Returns:</dt>

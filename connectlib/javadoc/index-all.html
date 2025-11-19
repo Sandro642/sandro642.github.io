@@ -144,7 +144,7 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Endpoint to create a new request.</div>
 </dd>
-<dt><a href="fr/sandro642/github/misc/Logger.html#CRITICAL(java.lang.String)" class="member-name-link">CRITICAL(String)</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></dt>
+<dt><a href="fr/sandro642/github/log/Logger.html#CRITICAL(java.lang.String)" class="member-name-link">CRITICAL(String)</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></dt>
 <dd>
 <div class="block">Method to display a critical message in the console.</div>
 </dd>
@@ -165,6 +165,8 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Method to display the raw data stored in the ApiFactory.</div>
 </dd>
+<dt><a href="fr/sandro642/github/misc/StoreAndRetrieve.html#DYNAMIC_PORT" class="member-name-link">DYNAMIC_PORT</a> - Variable in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/StoreAndRetrieve.html" title="class in fr.sandro642.github.misc">StoreAndRetrieve</a></dt>
+<dd>&nbsp;</dd>
 </dl>
 <h2 class="title" id="I:E">E</h2>
 <dl class="index">
@@ -176,7 +178,7 @@ loadScripts(document, 'script');</script>
 </dd>
 <dt><a href="fr/sandro642/github/misc/EnumLoader.html#%3Cinit%3E()" class="member-name-link">EnumLoader()</a> - Constructor for class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/EnumLoader.html" title="class in fr.sandro642.github.misc">EnumLoader</a></dt>
 <dd>&nbsp;</dd>
-<dt><a href="fr/sandro642/github/misc/Logger.html#ERROR(java.lang.String)" class="member-name-link">ERROR(String)</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></dt>
+<dt><a href="fr/sandro642/github/log/Logger.html#ERROR(java.lang.String)" class="member-name-link">ERROR(String)</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></dt>
 <dd>
 <div class="block">Method to display an error message in the console.</div>
 </dd>
@@ -208,6 +210,8 @@ loadScripts(document, 'script');</script>
 <dt><a href="fr/sandro642/github/hook/package-summary.html">fr.sandro642.github.hook</a> - package fr.sandro642.github.hook</dt>
 <dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/jobs/package-summary.html">fr.sandro642.github.jobs</a> - package fr.sandro642.github.jobs</dt>
+<dd>&nbsp;</dd>
+<dt><a href="fr/sandro642/github/log/package-summary.html">fr.sandro642.github.log</a> - package fr.sandro642.github.log</dt>
 <dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/misc/package-summary.html">fr.sandro642.github.misc</a> - package fr.sandro642.github.misc</dt>
 <dd>&nbsp;</dd>
@@ -284,7 +288,7 @@ loadScripts(document, 'script');</script>
 </dd>
 <dt><a href="fr/sandro642/github/misc/LangManager.html#getLoadError()" class="member-name-link">getLoadError()</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/LangManager.html" title="class in fr.sandro642.github.misc">LangManager</a></dt>
 <dd>&nbsp;</dd>
-<dt><a href="fr/sandro642/github/misc/Logs.html#getLogs()" class="member-name-link">getLogs()</a> - Static method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logs.html" title="class in fr.sandro642.github.misc">Logs</a></dt>
+<dt><a href="fr/sandro642/github/log/Logs.html#getLogs()" class="member-name-link">getLogs()</a> - Static method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logs.html" title="class in fr.sandro642.github.log">Logs</a></dt>
 <dd>
 <div class="block">Get the instance of Logs.</div>
 </dd>
@@ -296,10 +300,6 @@ loadScripts(document, 'script');</script>
 <dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/misc/LangManager.html#getMessagesInCategory(fr.sandro642.github.enums.lang.CategoriesType)" class="member-name-link">getMessagesInCategory(CategoriesType)</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/LangManager.html" title="class in fr.sandro642.github.misc">LangManager</a></dt>
 <dd>&nbsp;</dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html#getName()" class="member-name-link">getName()</a> - Method in class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/RouteInfo.html" title="class in fr.sandro642.github.spring.dto">RouteInfo</a></dt>
-<dd>
-<div class="block">Get the name of the route.</div>
-</dd>
 <dt><a href="fr/sandro642/github/enums/ResourceType.html#getPath()" class="member-name-link">getPath()</a> - Method in enum class fr.sandro642.github.enums.<a href="fr/sandro642/github/enums/ResourceType.html" title="enum class in fr.sandro642.github.enums">ResourceType</a></dt>
 <dd>
 <div class="block">Obtient le chemin de la ressource.</div>
@@ -347,9 +347,7 @@ loadScripts(document, 'script');</script>
 <div class="block">Retrieves the routes defined in the YAML configuration file.</div>
 </dd>
 <dt><a href="fr/sandro642/github/spring/controller/DataController.html#getRoutes()" class="member-name-link">getRoutes()</a> - Method in class fr.sandro642.github.spring.controller.<a href="fr/sandro642/github/spring/controller/DataController.html" title="class in fr.sandro642.github.spring.controller">DataController</a></dt>
-<dd>
-<div class="block">Endpoint to get the available routes from ConnectLib.</div>
-</dd>
+<dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/jobs/JobGetInfos.html#getRoutes(fr.sandro642.github.enums.MethodType,java.lang.Enum)" class="member-name-link">getRoutes(MethodType, Enum&lt;?&gt;)</a> - Method in class fr.sandro642.github.jobs.<a href="fr/sandro642/github/jobs/JobGetInfos.html" title="class in fr.sandro642.github.jobs">JobGetInfos</a></dt>
 <dd>
 <div class="block">Get routes from the YAML file and builds the full URL with a request body.</div>
@@ -377,10 +375,6 @@ loadScripts(document, 'script');</script>
 <dt><a href="fr/sandro642/github/api/ApiFactory.html#getStatusCode()" class="member-name-link">getStatusCode()</a> - Method in class fr.sandro642.github.api.<a href="fr/sandro642/github/api/ApiFactory.html" title="class in fr.sandro642.github.api">ApiFactory</a></dt>
 <dd>
 <div class="block">Method to retrieve the HTTP status code of the API response.</div>
-</dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html#getUrl()" class="member-name-link">getUrl()</a> - Method in class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/RouteInfo.html" title="class in fr.sandro642.github.spring.dto">RouteInfo</a></dt>
-<dd>
-<div class="block">Get the URL of the route.</div>
 </dd>
 <dt><a href="fr/sandro642/github/misc/YamlUtils.html#getURL()" class="member-name-link">getURL()</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/YamlUtils.html" title="class in fr.sandro642.github.misc">YamlUtils</a></dt>
 <dd>
@@ -418,7 +412,7 @@ loadScripts(document, 'script');</script>
 </dl>
 <h2 class="title" id="I:I">I</h2>
 <dl class="index">
-<dt><a href="fr/sandro642/github/misc/Logger.html#INFO(java.lang.String)" class="member-name-link">INFO(String)</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></dt>
+<dt><a href="fr/sandro642/github/log/Logger.html#INFO(java.lang.String)" class="member-name-link">INFO(String)</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></dt>
 <dd>
 <div class="block">Method to display an informational message in the console.</div>
 </dd>
@@ -497,21 +491,21 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">LangType is an enumeration representing different language codes used in the ConnectLib library.</div>
 </dd>
-<dt><a href="fr/sandro642/github/misc/Logger.html" class="type-name-link" title="class in fr.sandro642.github.misc">Logger</a> - Class in <a href="fr/sandro642/github/misc/package-summary.html">fr.sandro642.github.misc</a></dt>
+<dt><a href="fr/sandro642/github/log/Logger.html" class="type-name-link" title="class in fr.sandro642.github.log">Logger</a> - Class in <a href="fr/sandro642/github/log/package-summary.html">fr.sandro642.github.log</a></dt>
 <dd>
 <div class="block">Logger is a utility class for logging messages in the ConnectLib library.</div>
 </dd>
-<dt><a href="fr/sandro642/github/misc/Logger.html#%3Cinit%3E()" class="member-name-link">Logger()</a> - Constructor for class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></dt>
+<dt><a href="fr/sandro642/github/log/Logger.html#%3Cinit%3E()" class="member-name-link">Logger()</a> - Constructor for class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></dt>
 <dd>&nbsp;</dd>
 <dt><a href="fr/sandro642/github/ConnectLib.html#Logger()" class="member-name-link">Logger()</a> - Method in class fr.sandro642.github.<a href="fr/sandro642/github/ConnectLib.html" title="class in fr.sandro642.github">ConnectLib</a></dt>
 <dd>
 <div class="block">Return the instance of Logger.</div>
 </dd>
-<dt><a href="fr/sandro642/github/misc/Logs.html" class="type-name-link" title="class in fr.sandro642.github.misc">Logs</a> - Class in <a href="fr/sandro642/github/misc/package-summary.html">fr.sandro642.github.misc</a></dt>
+<dt><a href="fr/sandro642/github/log/Logs.html" class="type-name-link" title="class in fr.sandro642.github.log">Logs</a> - Class in <a href="fr/sandro642/github/log/package-summary.html">fr.sandro642.github.log</a></dt>
 <dd>
 <div class="block">Logs is a utility class for managing logging in the ConnectLib library.</div>
 </dd>
-<dt><a href="fr/sandro642/github/misc/Logs.html#%3Cinit%3E()" class="member-name-link">Logs()</a> - Constructor for class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logs.html" title="class in fr.sandro642.github.misc">Logs</a></dt>
+<dt><a href="fr/sandro642/github/log/Logs.html#%3Cinit%3E()" class="member-name-link">Logs()</a> - Constructor for class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logs.html" title="class in fr.sandro642.github.log">Logs</a></dt>
 <dd>&nbsp;</dd>
 </dl>
 <h2 class="title" id="I:M">M</h2>
@@ -520,7 +514,7 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Gradle and Maven Support.</div>
 </dd>
-<dt><a href="fr/sandro642/github/misc/Logs.html#MakeALog(java.lang.String,P)" class="member-name-link">MakeALog(String, P)</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logs.html" title="class in fr.sandro642.github.misc">Logs</a></dt>
+<dt><a href="fr/sandro642/github/log/Logs.html#MakeALog(java.lang.String,P)" class="member-name-link">MakeALog(String, P)</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logs.html" title="class in fr.sandro642.github.log">Logs</a></dt>
 <dd>
 <div class="block">* Static block to initialize the Logs instance.</div>
 </dd>
@@ -590,7 +584,7 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Default constructor</div>
 </dd>
-<dt><a href="fr/sandro642/github/spring/dto/Request.html#%3Cinit%3E(java.lang.Long,java.lang.String,java.lang.String,java.lang.String)" class="member-name-link">Request(Long, String, String, String)</a> - Constructor for class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/Request.html" title="class in fr.sandro642.github.spring.dto">Request</a></dt>
+<dt><a href="fr/sandro642/github/spring/dto/Request.html#%3Cinit%3E(java.lang.String,java.lang.Long,java.lang.String,java.lang.String,java.lang.String)" class="member-name-link">Request(String, Long, String, String, String)</a> - Constructor for class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/Request.html" title="class in fr.sandro642.github.spring.dto">Request</a></dt>
 <dd>
 <div class="block">Parameterized constructor</div>
 </dd>
@@ -607,18 +601,6 @@ loadScripts(document, 'script');</script>
 <dt><a href="fr/sandro642/github/provider/RouteImport.html" class="type-name-link" title="interface in fr.sandro642.github.provider">RouteImport</a> - Interface in <a href="fr/sandro642/github/provider/package-summary.html">fr.sandro642.github.provider</a></dt>
 <dd>
 <div class="block">RouteImport is an interface that should be implemented by enums that provide a route.</div>
-</dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html" class="type-name-link" title="class in fr.sandro642.github.spring.dto">RouteInfo</a> - Class in <a href="fr/sandro642/github/spring/dto/package-summary.html">fr.sandro642.github.spring.dto</a></dt>
-<dd>
-<div class="block">Data Transfer Object representing route information.</div>
-</dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html#%3Cinit%3E()" class="member-name-link">RouteInfo()</a> - Constructor for class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/RouteInfo.html" title="class in fr.sandro642.github.spring.dto">RouteInfo</a></dt>
-<dd>
-<div class="block">Default constructor.</div>
-</dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html#%3Cinit%3E(java.lang.String,java.lang.String)" class="member-name-link">RouteInfo(String, String)</a> - Constructor for class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/RouteInfo.html" title="class in fr.sandro642.github.spring.dto">RouteInfo</a></dt>
-<dd>
-<div class="block">Parameterized constructor.</div>
 </dd>
 <dt><a href="fr/sandro642/github/enums/LangType.html#RUSSIAN" class="member-name-link">RUSSIAN</a> - Enum constant in enum class fr.sandro642.github.enums.<a href="fr/sandro642/github/enums/LangType.html" title="enum class in fr.sandro642.github.enums">LangType</a></dt>
 <dd>&nbsp;</dd>
@@ -637,11 +619,7 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Sets the LangType variable for this instance.</div>
 </dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html#setName(java.lang.String)" class="member-name-link">setName(String)</a> - Method in class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/RouteInfo.html" title="class in fr.sandro642.github.spring.dto">RouteInfo</a></dt>
-<dd>
-<div class="block">Set the name of the route.</div>
-</dd>
-<dt><a href="fr/sandro642/github/misc/Logs.html#setPathFile()" class="member-name-link">setPathFile()</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logs.html" title="class in fr.sandro642.github.misc">Logs</a></dt>
+<dt><a href="fr/sandro642/github/log/Logs.html#setPathFile()" class="member-name-link">setPathFile()</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logs.html" title="class in fr.sandro642.github.log">Logs</a></dt>
 <dd>
 <div class="block">Static block to initialize the Logs instance.</div>
 </dd>
@@ -661,11 +639,7 @@ loadScripts(document, 'script');</script>
 <dd>
 <div class="block">Method to retrieve the statusCode from response.</div>
 </dd>
-<dt><a href="fr/sandro642/github/spring/dto/RouteInfo.html#setUrl(java.lang.String)" class="member-name-link">setUrl(String)</a> - Method in class fr.sandro642.github.spring.dto.<a href="fr/sandro642/github/spring/dto/RouteInfo.html" title="class in fr.sandro642.github.spring.dto">RouteInfo</a></dt>
-<dd>
-<div class="block">Set the URL of the route.</div>
-</dd>
-<dt><a href="fr/sandro642/github/misc/Logger.html#showLogs()" class="member-name-link">showLogs()</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></dt>
+<dt><a href="fr/sandro642/github/log/Logger.html#showLogs()" class="member-name-link">showLogs()</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></dt>
 <dd>
 <div class="block">Enable console output for logs.</div>
 </dd>
@@ -790,7 +764,11 @@ the order they are declared.</div>
 </dl>
 <h2 class="title" id="I:W">W</h2>
 <dl class="index">
-<dt><a href="fr/sandro642/github/misc/Logger.html#WARN(java.lang.String)" class="member-name-link">WARN(String)</a> - Method in class fr.sandro642.github.misc.<a href="fr/sandro642/github/misc/Logger.html" title="class in fr.sandro642.github.misc">Logger</a></dt>
+<dt><a href="fr/sandro642/github/ConnectLib.html#wanImplement(java.lang.String)" class="member-name-link">wanImplement(String)</a> - Method in class fr.sandro642.github.<a href="fr/sandro642/github/ConnectLib.html" title="class in fr.sandro642.github">ConnectLib</a></dt>
+<dd>
+<div class="block">Implement WAN connection to retrieve the port from the server.</div>
+</dd>
+<dt><a href="fr/sandro642/github/log/Logger.html#WARN(java.lang.String)" class="member-name-link">WARN(String)</a> - Method in class fr.sandro642.github.log.<a href="fr/sandro642/github/log/Logger.html" title="class in fr.sandro642.github.log">Logger</a></dt>
 <dd>
 <div class="block">Method to display a warning message in the console.</div>
 </dd>
