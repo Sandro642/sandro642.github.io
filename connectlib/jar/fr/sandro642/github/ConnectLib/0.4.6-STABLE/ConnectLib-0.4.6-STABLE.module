@@ -27,11 +27,11 @@
         {
           "name": "ConnectLib-0.4.6-STABLE.jar",
           "url": "ConnectLib-0.4.6-STABLE.jar",
-          "size": 62459,
-          "sha512": "6bafe799864fd8d123b720fd8eb077d8163522af9ccb479f1f62ec3a0d9592d5b3e88c9f983695bb8b514e9edfd8c3b002825c30bd06357ebc6a19a3d719de45",
-          "sha256": "ab34d5f6b9e8590edbd216ac1227dcbfe850759d43759cdd007e061404f7d54c",
-          "sha1": "d313cad4e510b534e31039fe2bd6d1686347fe22",
-          "md5": "9357cb7e3317d492fae465ae52685f28"
+          "size": 63954,
+          "sha512": "1d226cf744830bf43a3a03f974a126aef968f09616c737bf695db8ca74f5d86e8eedc52c80bc6cf5ef327af99f14a464fab8a9ca85c741a23b2ba82b10595594",
+          "sha256": "070e3991238c38002dcc9504e82859921be1930d3b1336a7bef9803b933bca86",
+          "sha1": "affbd6dff56f1bf325eb73922de9cfe87e98170d",
+          "md5": "72b93922c443106c0c437faa7b5f5e05"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "ConnectLib-0.4.6-STABLE.jar",
           "url": "ConnectLib-0.4.6-STABLE.jar",
-          "size": 62459,
-          "sha512": "6bafe799864fd8d123b720fd8eb077d8163522af9ccb479f1f62ec3a0d9592d5b3e88c9f983695bb8b514e9edfd8c3b002825c30bd06357ebc6a19a3d719de45",
-          "sha256": "ab34d5f6b9e8590edbd216ac1227dcbfe850759d43759cdd007e061404f7d54c",
-          "sha1": "d313cad4e510b534e31039fe2bd6d1686347fe22",
-          "md5": "9357cb7e3317d492fae465ae52685f28"
+          "size": 63954,
+          "sha512": "1d226cf744830bf43a3a03f974a126aef968f09616c737bf695db8ca74f5d86e8eedc52c80bc6cf5ef327af99f14a464fab8a9ca85c741a23b2ba82b10595594",
+          "sha256": "070e3991238c38002dcc9504e82859921be1930d3b1336a7bef9803b933bca86",
+          "sha1": "affbd6dff56f1bf325eb73922de9cfe87e98170d",
+          "md5": "72b93922c443106c0c437faa7b5f5e05"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "ConnectLib-0.4.6-STABLE-sources.jar",
           "url": "ConnectLib-0.4.6-STABLE-sources.jar",
-          "size": 38199,
-          "sha512": "0391766255dbc9d1c7633d0df1385042cbb7f58f4f7680cc3d2b5569ecaae03b9183a47544189babecc49f89e4b1ad7ab8144f6703068958319ea55d43f8dea4",
-          "sha256": "1be9f4c9438fa39c7fba5965087e6eb066129ed9a855af5229447610cea0f66a",
-          "sha1": "0f5b49a527c5a2014b1d56557a6747be8337f048",
-          "md5": "c02307cf0cd2ef52495f3e4c7fcee0df"
+          "size": 38851,
+          "sha512": "1cc3364d00fabfe943d22595e34697d4ad48c5c11b8711b095f2a255b348f0bade8c82798d0991b6351a0e9f2b25cdf14cd1d2eb2e2d680c2fbb57114fd2e9c3",
+          "sha256": "018627c71bd8a32c7a36846d446c33d09ef6071b9ac8bd0bef4cc0451bc73231",
+          "sha1": "9ee6fe7ab1112cc3b7c5efdc67e71ed2a13ea9dd",
+          "md5": "4be51367e0fb5d39c4a1c8e22c950498"
         }
       ]
     }
