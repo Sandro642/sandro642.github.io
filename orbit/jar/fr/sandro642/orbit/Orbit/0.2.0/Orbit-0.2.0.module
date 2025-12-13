@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.sandro642.orbit",
+    "module": "Orbit",
+    "version": "0.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Orbit-0.2.0.jar",
+          "url": "Orbit-0.2.0.jar",
+          "size": 11097,
+          "sha512": "06d4ec069457467d2fdcdfbc2ce69a585fca242f3a82954234d378115a3c18c9f49710ebfcb9bc13e619f40f817c7b6e6dca929b0148395671d82327c85a7eb3",
+          "sha256": "81019def86fbfe4e4d3662f263136bc59a48b352d80e737ff4b3b10937e0c4fd",
+          "sha1": "571e73e819457b09aab08a3170a9b9083a5fd8df",
+          "md5": "19a78caa008f0d1bc6239faca8030a9f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.projectreactor",
+          "module": "reactor-core",
+          "version": {
+            "requires": "3.6.9"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "org.eclipse.jgit",
+          "module": "org.eclipse.jgit",
+          "version": {
+            "requires": "6.10.0.202406032230-r"
+          }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.4.14"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "Orbit-0.2.0.jar",
+          "url": "Orbit-0.2.0.jar",
+          "size": 11097,
+          "sha512": "06d4ec069457467d2fdcdfbc2ce69a585fca242f3a82954234d378115a3c18c9f49710ebfcb9bc13e619f40f817c7b6e6dca929b0148395671d82327c85a7eb3",
+          "sha256": "81019def86fbfe4e4d3662f263136bc59a48b352d80e737ff4b3b10937e0c4fd",
+          "sha1": "571e73e819457b09aab08a3170a9b9083a5fd8df",
+          "md5": "19a78caa008f0d1bc6239faca8030a9f"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Orbit-0.2.0-fat.jar",
+          "url": "Orbit-0.2.0-fat.jar",
+          "size": 6623209,
+          "sha512": "50b4fb7ef3aa9733a412d61a35f70ce235b4e3fb5008c4dcaae886ae4aa928a08d5cb501a9e1f77fc30ae27dcc80c858a0f2e974752e892e77b96d4857cd6a91",
+          "sha256": "0a3285864ae7201dab4cf45fe95d38746c9b70aecaa34a3ec5f1212e7cd937e4",
+          "sha1": "4c50df784cdccd41ebe1a12f6026608df3269e32",
+          "md5": "e4b94ae1740b70f35e84051fe3c770fe"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Orbit-0.2.0-sources.jar",
+          "url": "Orbit-0.2.0-sources.jar",
+          "size": 6199,
+          "sha512": "4ca3ff98916a01536b9adead8fe58bbec41e302b2f04401bd81b459710f144c7852608046022d11c6285e6deb0927a4a8628f69144754c2491a1e3cdb14ea084",
+          "sha256": "3445e8a3a5d075afdae61bbbcffc64bf6b729afd2554285b47f9ccb9cf0c42ca",
+          "sha1": "e55ffcc55dfc8c17f3038a647ef629ef4f48d28a",
+          "md5": "615be7d5b5b12ba1d469044ab7b95623"
+        }
+      ]
+    }
+  ]
+}
