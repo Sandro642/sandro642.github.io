@@ -27,11 +27,11 @@
         {
           "name": "Orbit-0.1.0.jar",
           "url": "Orbit-0.1.0.jar",
-          "size": 5312,
-          "sha512": "9aa683331cc8ab94fc7d5bdacfe528371ce272a20f6c4e2d5925dd01430961b06ab07530196232a1583205fc17039db90577ae45207cd3107a82fd26affddaf8",
-          "sha256": "fe6d62f879195cb7c728d73c8b734c47ac43b8163a947275e662a0d3978a12ef",
-          "sha1": "8db5e2836cf5c5f314d487a46d43de580ff494ba",
-          "md5": "66eacaff16fe3ae54951fbecd63c4a35"
+          "size": 8927,
+          "sha512": "343a403c7fce10a580547bca8f154f96f536588bc2d0ca55bbab647c35f430f667799a1e05aa907d4fcfc437627f6ee551df1c18b7d05698cb266359b6e092ff",
+          "sha256": "f0df335e8f79580a313288666563822fc26da5871f18a689bf582c738eb8c057",
+          "sha1": "de20278cb7a99d29d1f554e6a656ac6e468af033",
+          "md5": "3d525aa9308bc2e0e4193e1f6b5cccd5"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "Orbit-0.1.0.jar",
           "url": "Orbit-0.1.0.jar",
-          "size": 5312,
-          "sha512": "9aa683331cc8ab94fc7d5bdacfe528371ce272a20f6c4e2d5925dd01430961b06ab07530196232a1583205fc17039db90577ae45207cd3107a82fd26affddaf8",
-          "sha256": "fe6d62f879195cb7c728d73c8b734c47ac43b8163a947275e662a0d3978a12ef",
-          "sha1": "8db5e2836cf5c5f314d487a46d43de580ff494ba",
-          "md5": "66eacaff16fe3ae54951fbecd63c4a35"
+          "size": 8927,
+          "sha512": "343a403c7fce10a580547bca8f154f96f536588bc2d0ca55bbab647c35f430f667799a1e05aa907d4fcfc437627f6ee551df1c18b7d05698cb266359b6e092ff",
+          "sha256": "f0df335e8f79580a313288666563822fc26da5871f18a689bf582c738eb8c057",
+          "sha1": "de20278cb7a99d29d1f554e6a656ac6e468af033",
+          "md5": "3d525aa9308bc2e0e4193e1f6b5cccd5"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "Orbit-0.1.0-fat.jar",
           "url": "Orbit-0.1.0-fat.jar",
-          "size": 5737650,
-          "sha512": "211020d4ece80ecc8fa75b406e474b5eaa06b90b3e20b9b916fe0ba88332520ae78d9a58a44cfaf6a026b46e85b703ed64efb37f995b7c247a49bd59bab7748f",
-          "sha256": "d05266f6dd3bd9d06c8e2df6658573a9f19cab22795b5d76d66e8350b17ff8a8",
-          "sha1": "de075592b8ae53b16fa3ca52cd3579d1f2bbe6d4",
-          "md5": "a59133654a9cd15af108a826b1421c8b"
+          "size": 5741265,
+          "sha512": "3a0e2c613abe248496237c5b7b99f30ca8f47292842475a3d88c811ba542a35ce2fac53908ec7503e21e3146d7b0af4fe40e7ccc9a34a1a9aed8d47e7b6308fa",
+          "sha256": "1c641b28556468da70fafd3e15d309e80a8d2f5ec6f7718a3d9cf27b62ce98cc",
+          "sha1": "c7c281ae9f5c278f4e15c307a5404cf250fb3ef3",
+          "md5": "c37cca22c485606f973c875a10c0b525"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "Orbit-0.1.0-sources.jar",
           "url": "Orbit-0.1.0-sources.jar",
-          "size": 3503,
-          "sha512": "28e5e2854937db9e01e9fa9549d848ad6868cf1f9712c21b65197b519b8fed651c3f2cb220599b2617bbc1f068224203d76c756b26c4cf13cbccb1f9e9fdec5a",
-          "sha256": "15b1a60d3d0943cf99079b57482c5528e451c6524ddadfd1abd1566bdb41334f",
-          "sha1": "53db1c2ac5b81d243091beab68b8828caf796c7c",
-          "md5": "f4100b6bad4bd57f93d595296d0c186c"
+          "size": 5167,
+          "sha512": "71ab711b456e9a9908ce8c57bc6ccfd3d26d166ebeb1056f1a085abf3a4ffe9e43070fcf7a5724eef41c72e85e60c59057785e4e3d880e61fb887e0fa75aa397",
+          "sha256": "ad78ed959b732b992298c0b84a8d194a9cdbe71570a9eae1f838d19d37326d7a",
+          "sha1": "70d06402cdc41289824ae8a439427a620ccee76e",
+          "md5": "5d93e91bfc197fc835cb13f61e69168c"
         }
       ]
     }
