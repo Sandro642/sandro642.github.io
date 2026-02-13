@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.sandro642.github",
+    "module": "OreRatio",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "OreRatio-0.1.0.jar",
+          "url": "OreRatio-0.1.0.jar",
+          "size": 3631,
+          "sha512": "009533d01f55b7864743c41c8f870249055fb1a04412a62b033faa0259816f2978e73358f8c41e38edf9fa7cc74aeed13ae24cebb93c18b7531596801d1f104e",
+          "sha256": "c6bb3392947b19a526de3f6c4647d2df41d85c313587f3ae28b6d36dce83b060",
+          "sha1": "c9edb6a47bd0ad1d4302e324fd135287d660e10c",
+          "md5": "dd3eeb28dba55ef97de210756defe7d5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "OreRatio-0.1.0.jar",
+          "url": "OreRatio-0.1.0.jar",
+          "size": 3631,
+          "sha512": "009533d01f55b7864743c41c8f870249055fb1a04412a62b033faa0259816f2978e73358f8c41e38edf9fa7cc74aeed13ae24cebb93c18b7531596801d1f104e",
+          "sha256": "c6bb3392947b19a526de3f6c4647d2df41d85c313587f3ae28b6d36dce83b060",
+          "sha1": "c9edb6a47bd0ad1d4302e324fd135287d660e10c",
+          "md5": "dd3eeb28dba55ef97de210756defe7d5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "OreRatio-0.1.0-sources.jar",
+          "url": "OreRatio-0.1.0-sources.jar",
+          "size": 2506,
+          "sha512": "a0d297b4d0484ebb9e0df273f8411e93a54fcc2b37bc6d711ca4628c25e563e6529ac58b82280d2e89aea38956fb33b2bd5b214e6e797363a85967beefa23c20",
+          "sha256": "3a6fe3917e78bc153f9d53c7dccb9b78b8a52be47847515c8cd6f00113387d51",
+          "sha1": "67d82a6c9f1225512a30fb6ee53f139ec59c2a1f",
+          "md5": "f2bf6a493f9fe6919d7138985801abc2"
+        }
+      ]
+    }
+  ]
+}
